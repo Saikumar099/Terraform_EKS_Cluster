@@ -52,9 +52,9 @@ Make sure your AWS credentials are set up. You can configure them using the AWS 
 
 Alternatively, set the environment variables directly:
 
-export AWS_ACCESS_KEY_ID="your-access-key-id"
-export AWS_SECRET_ACCESS_KEY="your-secret-access-key"
-export AWS_DEFAULT_REGION="us-east-1"
+                 export AWS_ACCESS_KEY_ID="your-access-key-id"
+                 export AWS_SECRET_ACCESS_KEY="your-secret-access-key"
+                 export AWS_DEFAULT_REGION="us-east-1"
 
 3. Initialize Terraform
 Run the following command to initialize the Terraform configuration:
